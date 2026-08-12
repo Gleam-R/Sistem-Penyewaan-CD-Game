@@ -10,17 +10,17 @@ The application allows users to manage game inventory data, including the game c
 
 ![Main Interface](screenshots/main-interface.png)
 
-### Adding Game Data
+### Adding Inventory
 
-![Add Game Data](screenshots/add-game.png)
+![Add Game Data](screenshots/add-inventory.png)
 
-### Editing Game Data
+### Editing Inventory
 
-![Edit Game Data](screenshots/edit-game.png)
+![Edit Game Data](screenshots/editing-inventory.png)
 
-### Game Inventory
+### Deleting Inventory
 
-![Game Inventory](screenshots/game-inventory.png)
+![Game Inventory](screenshots/Deleting-inventory.png)
 
 ## Features
 
